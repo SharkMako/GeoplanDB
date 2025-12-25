@@ -1,0 +1,32 @@
+C:\Users\Hassii\source\repos\GeoplanDB\GeoplanDB\bin\Debug\GeoplanDB.exe.config
+C:\Users\Hassii\source\repos\GeoplanDB\GeoplanDB\bin\Debug\GeoplanDB.exe
+C:\Users\Hassii\source\repos\GeoplanDB\GeoplanDB\bin\Debug\GeoplanDB.pdb
+C:\Users\Hassii\source\repos\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.csproj.AssemblyReference.cache
+C:\Users\Hassii\source\repos\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.MainForm.resources
+C:\Users\Hassii\source\repos\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.Properties.Resources.resources
+C:\Users\Hassii\source\repos\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.csproj.GenerateResource.cache
+C:\Users\Hassii\source\repos\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.csproj.CoreCompileInputs.cache
+C:\Users\Hassii\source\repos\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.exe
+C:\Users\Hassii\source\repos\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.pdb
+C:\Users\Hassii\source\repos\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.NewCategory.resources
+C:\Users\Hassii\source\repos\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.NewClient.resources
+C:\Users\Hassii\source\repos\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.NewCoordinates.resources
+C:\Users\Hassii\source\repos\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.NewOrder.resources
+C:\Users\Hassii\source\repos\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.NewService.resources
+C:\Users\Hassii\source\repos\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.NewWorker.resources
+D:\Proekti\[TOP] [CONTENT]\ЛЮБИМЫЕ КУРСОВЫЕ\Выпускная Квалификационная работа\GeoplanDB\GeoplanDB\bin\Debug\GeoplanDB.exe.config
+D:\Proekti\[TOP] [CONTENT]\ЛЮБИМЫЕ КУРСОВЫЕ\Выпускная Квалификационная работа\GeoplanDB\GeoplanDB\bin\Debug\GeoplanDB.exe
+D:\Proekti\[TOP] [CONTENT]\ЛЮБИМЫЕ КУРСОВЫЕ\Выпускная Квалификационная работа\GeoplanDB\GeoplanDB\bin\Debug\GeoplanDB.pdb
+D:\Proekti\[TOP] [CONTENT]\ЛЮБИМЫЕ КУРСОВЫЕ\Выпускная Квалификационная работа\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.csproj.AssemblyReference.cache
+D:\Proekti\[TOP] [CONTENT]\ЛЮБИМЫЕ КУРСОВЫЕ\Выпускная Квалификационная работа\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.NewClient.resources
+D:\Proekti\[TOP] [CONTENT]\ЛЮБИМЫЕ КУРСОВЫЕ\Выпускная Квалификационная работа\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.MainForm.resources
+D:\Proekti\[TOP] [CONTENT]\ЛЮБИМЫЕ КУРСОВЫЕ\Выпускная Квалификационная работа\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.NewCategory.resources
+D:\Proekti\[TOP] [CONTENT]\ЛЮБИМЫЕ КУРСОВЫЕ\Выпускная Квалификационная работа\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.NewCoordinates.resources
+D:\Proekti\[TOP] [CONTENT]\ЛЮБИМЫЕ КУРСОВЫЕ\Выпускная Квалификационная работа\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.NewOrder.resources
+D:\Proekti\[TOP] [CONTENT]\ЛЮБИМЫЕ КУРСОВЫЕ\Выпускная Квалификационная работа\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.NewService.resources
+D:\Proekti\[TOP] [CONTENT]\ЛЮБИМЫЕ КУРСОВЫЕ\Выпускная Квалификационная работа\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.NewWorker.resources
+D:\Proekti\[TOP] [CONTENT]\ЛЮБИМЫЕ КУРСОВЫЕ\Выпускная Квалификационная работа\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.Properties.Resources.resources
+D:\Proekti\[TOP] [CONTENT]\ЛЮБИМЫЕ КУРСОВЫЕ\Выпускная Квалификационная работа\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.csproj.GenerateResource.cache
+D:\Proekti\[TOP] [CONTENT]\ЛЮБИМЫЕ КУРСОВЫЕ\Выпускная Квалификационная работа\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.csproj.CoreCompileInputs.cache
+D:\Proekti\[TOP] [CONTENT]\ЛЮБИМЫЕ КУРСОВЫЕ\Выпускная Квалификационная работа\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.exe
+D:\Proekti\[TOP] [CONTENT]\ЛЮБИМЫЕ КУРСОВЫЕ\Выпускная Квалификационная работа\GeoplanDB\GeoplanDB\obj\Debug\GeoplanDB.pdb
